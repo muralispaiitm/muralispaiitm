@@ -1,5 +1,5 @@
 # My-Profile
-Hey 👋, I’m **CHANDANA ENUGALA** (Passionate ML Engineer with python) !
+Hey 👋, I’m **GOWTHAM MURALI** (Passionate ML Engineer with python) !
 -------------------------------------------------------------------------
 <a href="https://github.com/muralispaiitm">
 <img align="left" alt="Chandana's GitHub" width="22px" src="http://cdn.onlinewebfonts.com/svg/img_326384.png" />
