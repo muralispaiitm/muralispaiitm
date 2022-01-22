@@ -50,13 +50,14 @@ Regression Problems
 - [House Price Prediction](https://github.com/chandanareddy-enugala/House_Price_Prediction)
 
 Classification Problems
-- [IRIS Flowers Prediction](https://github.com/chandanareddy-enugala/IRIS_Flowers_Prediction)
-- [Fake News Prediction](https://github.com/chandanareddy-enugala/Fake_News_Prediction)
-- [Hiring Prediction](https://github.com/chandanareddy-enugala/Hiring_Prediction)
-- [IPL Prediction](https://github.com/chandanareddy-enugala/IPL_Match_Prediction)
-- [Wafers Fault Detection](https://github.com/chandanareddy-enugala/Wafers_Fault_Detection)
-- [Back Order Prediction](https://github.com/chandanareddy-enugala/Back_Order_Prediction)
-- [Thyroid Detection](https://github.com/chandanareddy-enugala/Thyroid_Detection_Project)
+- [IRIS Flowers Prediction]()
+- [Fake News Prediction]()
+- [Hiring Prediction]()
+- [IPL Prediction]()
+- [Wafers Fault Detection](https://github.com/muralispaiitm/WafersFaultDetection)
+- [Back Order Prediction]()
+- [Thyroid Detection]()
+- [Student Drop out](https://github.com/muralispaiitm/MOOC_Student_Drop-Projects)
 
 
 **My Digital Garden 🌱** [give some ♥]
