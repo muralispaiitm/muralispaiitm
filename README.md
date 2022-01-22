@@ -59,6 +59,9 @@ Classification Problems
 - [Thyroid Detection]()
 - [Student Drop out](https://github.com/muralispaiitm/MOOC_Student_Drop-Projects)
 
+**Other Projects in ML**
+- [Review Scrapping](https://github.com/muralispaiitm/P01_Reviews_Scrapping)
+
 
 **My Digital Garden 🌱** [give some ♥]
 --------------------------------------------
