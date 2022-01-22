@@ -45,22 +45,25 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 **Projects in GitHub**
 --------------------------------
 Regression Problems
-- [Car Price Prediction](https://github.com/chandanareddy-enugala/Car_Price_Prediction)
-- [Flight Fare Prediction](https://github.com/chandanareddy-enugala/Flight_Fare_Prediction)
-- [House Price Prediction](https://github.com/chandanareddy-enugala/House_Price_Prediction)
+- [Car Price Prediction](https://github.com/muralispaiitm/Car_Price_Prediction)
+- [Flight Fare Prediction](https://github.com/muralispaiitm/Flight_Price_Prediction)
+- [House Price Prediction](https://github.com/muralispaiitm/House_Price_Prediction)
 
 Classification Problems
-- [IRIS Flowers Prediction]()
-- [Fake News Prediction]()
-- [Hiring Prediction]()
-- [IPL Prediction]()
+- [IRIS Flowers Prediction](https://github.com/muralispaiitm/IRIS_Flowers_Prediction)
+- [Fake News Prediction](https://github.com/muralispaiitm/Fake_News_Prediction)
+- [Hiring Prediction](https://github.com/muralispaiitm/Hirining_Prediction)
+- [IPL Prediction](https://github.com/muralispaiitm/IPL_Prediction)
 - [Wafers Fault Detection](https://github.com/muralispaiitm/WafersFaultDetection)
-- [Back Order Prediction]()
-- [Thyroid Detection]()
+- [Back Order Prediction](https://github.com/muralispaiitm/Back_Order_Prediction)
+- [Thyroid Detection](https://github.com/muralispaiitm/Thyroid_Detection_Prediction)
 - [Student Drop out](https://github.com/muralispaiitm/MOOC_Student_Drop-Projects)
 
 **Other Projects in ML**
 - [Review Scrapping](https://github.com/muralispaiitm/P01_Reviews_Scrapping)
+- [Capstone_Project_EDA](https://github.com/muralispaiitm/CACIITG/blob/main/Capstone_Project_EDA/02%20Capstone%20Project%20-%20EDA-Copy1.ipynb)
+- [Chicago_Crime_Detective Project](https://github.com/muralispaiitm/CACIITG/tree/main/Chicago_Crime_Detective%20Project)
+- [Titanic Project](https://github.com/muralispaiitm/CACIITG/tree/main/Titanic%20Project%20-%20MIM%20-%20Kaggle-Submission)
 
 
 **My Digital Garden 🌱** [give some ♥]
