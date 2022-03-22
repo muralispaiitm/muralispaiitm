@@ -2,13 +2,13 @@
 Hey 👋, I’m **GOWTHAM MURALI** (Passionate ML Engineer with python) !
 -------------------------------------------------------------------------
 <a href="https://github.com/muralispaiitm">
-<img align="left" alt="Chandana's GitHub" width="22px" src="http://cdn.onlinewebfonts.com/svg/img_326384.png" />
+<img align="left" alt="Gowtham's GitHub" width="22px" src="http://cdn.onlinewebfonts.com/svg/img_326384.png" />
 </a>
 <a href="https://www.linkedin.com/in/gowtham-miryala-1b6aa826/">
-<img align="left" alt="Chandana's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Gowtham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/">
-  <img align="left" alt="Chandana's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Gowtham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://stackoverflow.com/">
   <img align="left" alt="Gowtham Murali's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
